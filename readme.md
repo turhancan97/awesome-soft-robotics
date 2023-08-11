@@ -87,6 +87,7 @@ This section contains papers related to Soft Robotics.
 - [Development of a Food Handling Soft Robot Hand Considering a High-speed Pick-and-place Task](https://ieeexplore.ieee.org/document/9026282)
 - [Hydraulic Autonomous Soft Robotic Fish for 3D Swimming](https://link.springer.com/chapter/10.1007/978-3-319-23778-7_27)
 - [Autonomous Object Manipulation Using a Soft Planar Grasping Manipulator](https://www.liebertpub.com/doi/10.1089/soro.2015.0013)
+- [Comparison of Various Reinforcement Learning Environments in the Context of Continuum Robot Control](https://www.mdpi.com/2076-3417/13/16/9153)
 
 ## Book
 
