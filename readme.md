@@ -89,6 +89,7 @@ This section contains papers related to Soft Robotics.
 - [Autonomous Object Manipulation Using a Soft Planar Grasping Manipulator](https://www.liebertpub.com/doi/10.1089/soro.2015.0013)
 - [Comparison of Various Reinforcement Learning Environments in the Context of Continuum Robot Control](https://www.mdpi.com/2076-3417/13/16/9153)
 - [A Reinforcement Learning Approach for Continuum Robot Control](https://link.springer.com/article/10.1007/s10846-023-02003-0)
+- [DDPG-based reinforcement learning for controlling a spatial three-section continuum robot](https://www.sciencedirect.com/science/article/pii/S2773186324000082)
 
 ## Book
 
