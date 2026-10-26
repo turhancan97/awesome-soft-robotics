@@ -157,6 +157,8 @@ This section contains projects related to Soft Robotics.
 - [Cosserat-Rod-Modeling-of-Tendon-Actuated-Continuum-Robots](github.com/timclab-cami/cosserat-rod-modeling-of-tendon-actuated-continuum-robots)
 - [INN_Continuum_Robot](https://github.com/Shaswat2001/INN_Continuum_Robot)
 
+- [AgentFEM Morph Lab](https://lab.haoming-luo.com/morph/) — Browser-based planar flexible-rod inverse design, with public equilibrium data, surrogate baselines and a reproducible solver.
+
 ### Podcasts
 
 This section contains podcasts related to Soft Robotics.
